@@ -10,3 +10,5 @@ this will download your pygame.
 
 This is edited by the collaborator
 
+Chitkara university
+

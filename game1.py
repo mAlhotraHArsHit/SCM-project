@@ -179,5 +179,5 @@ def gameloop():
     pygame.quit()
     quit()
   
-welcome()
+#welcome()
 
